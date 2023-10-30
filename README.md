@@ -7,4 +7,9 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloyWayne&layout=compact&hide_border=true&theme=dark" />
 </div> 
 
+<div display:flex>
+ <img align="center" alt="Ws-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
+ <img  align="center" alt="Ws-Spring" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>         
+
 ##

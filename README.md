@@ -5,7 +5,7 @@
    <a href="https://github.com/EloyWayne">
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EloyWayne&show_icons=true&count_private=true&theme=dark" /> 
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EloyWayne&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" alt="Ws-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img width="40%" height="195px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> 
 
 <div display:flex>

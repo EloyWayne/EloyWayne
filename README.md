@@ -16,8 +16,13 @@
   <span align="right">
     <h3 align="left">Framework:</h3>
     <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
+    <img align="center" alt="Flask" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+          
+     
   </span>
 </div>    
 
 ##
 
+            
+          
